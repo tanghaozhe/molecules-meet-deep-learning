@@ -16,5 +16,6 @@ Everything about Deep Learning in relation to molecules.
 ## NMR spectrum
    #### Paper
    - [Neural Message Passing for NMR Chemical Shift Prediction](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.0c00195)
+      - MPNN predicts chemical shift by incorporating various node and edge features.
    - [Predicting chemical shifts with graph neural networks](https://pubs.rsc.org/en/content/articlelanding/2021/sc/d1sc01895g)
    
