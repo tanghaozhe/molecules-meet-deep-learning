@@ -2,6 +2,10 @@
 
 Everything about Deep Learning in relation to molecules.
 
+## Kaggle
+   - [Predicting Molecular Properties](https://www.kaggle.com/c/champs-scalar-coupling)
+   - [Bristol-Myers Squibb – Molecular Translation](https://www.kaggle.com/c/bms-molecular-translation)
+
 ## GNN
    #### Library
    - [PyTorch Geometric](https://pytorch-geometric.readthedocs.io/en/latest/)
