@@ -17,8 +17,17 @@ Everything about Deep Learning in relation to molecules.
    - [Graph Networks as a Universal Machine Learning Framework for Molecules and Crystals](https://arxiv.org/abs/1812.05055)
    - [Relational inductive biases, deep learning, and graph networks](https://arxiv.org/abs/1806.01261)
 
+## Molecule Generation
+   #### Paper
+   - [Automatic Chemical Design Using a Data-Driven Continuous Representation of Molecules](https://pubs.acs.org/doi/10.1021/acscentsci.7b00572)
+   - [Junction Tree Variational Autoencoder for Molecular Graph Generation](https://arxiv.org/abs/1802.04364)
 
-## NMR spectrum
+## Material Design
+#### Paper
+   - [Inverse Design of Solid-State Materials via a Continuous Representation](https://www.sciencedirect.com/science/article/pii/S2590238519301754)
+   
+   
+## NMR Spectrum
    #### Paper
    - [Neural Message Passing for NMR Chemical Shift Prediction](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.0c00195)
       - MPNN predicts chemical shift by incorporating various node and edge features.
