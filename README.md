@@ -24,6 +24,7 @@ Everything about Deep Learning in relation to molecules.
 
 ## Material Design
 #### Paper
+   - [Inverse molecular design using machine learning: Generative models for matter engineering](https://science.sciencemag.org/content/361/6400/360)
    - [Inverse Design of Solid-State Materials via a Continuous Representation](https://www.sciencedirect.com/science/article/pii/S2590238519301754)
    
    
