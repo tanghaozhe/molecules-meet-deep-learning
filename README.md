@@ -23,6 +23,10 @@ Everything about Deep Learning in relation to molecules.
    - [Automatic Chemical Design Using a Data-Driven Continuous Representation of Molecules](https://pubs.acs.org/doi/10.1021/acscentsci.7b00572)
    - [Junction Tree Variational Autoencoder for Molecular Graph Generation](https://arxiv.org/abs/1802.04364)
 
+## Property Prediction
+   - [ChemBERTa: Large-Scale Self-Supervised Pretraining for Molecular Property Prediction](https://arxiv.org/abs/2010.09885)
+   - [Dual-view Molecule Pre-training](https://arxiv.org/abs/2106.10234)
+
 ## Material Design
    - [Inverse Design of Solid-State Materials via a Continuous Representation](https://www.sciencedirect.com/science/article/pii/S2590238519301754)
    
