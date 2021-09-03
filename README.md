@@ -11,13 +11,15 @@ Everything about Deep Learning in relation to molecules.
    - [PyTorch Geometric](https://pytorch-geometric.readthedocs.io/en/latest/)
    - [DGL](https://www.dgl.ai/)
    #### Paper
-   - [Neural Message Passing for Quantum Chemistry](https://arxiv.org/abs/1704.01212)
-      - A type of neural network model for chemical prediction problems.
-   - [Graph Transformer Networks](https://arxiv.org/abs/1911.06455)
-   - [Graph Networks as a Universal Machine Learning Framework for Molecules and Crystals](https://arxiv.org/abs/1812.05055)
-   - [Relational inductive biases, deep learning, and graph networks](https://arxiv.org/abs/1806.01261)
+   - [GraphDF: A Discrete Flow Model for Molecular Graph Generation](https://arxiv.org/abs/2102.01189)
+   - [Improving Molecular Graph Neural Network Explainability with Orthonormalization and Induced Sparsity](https://arxiv.org/abs/2105.04854)
    - [Strategies for Pre-training Graph Neural Networks](https://arxiv.org/abs/1905.12265)
       - A pre-training GNN for predicting molecule properties.
+   - [Relational inductive biases, deep learning, and graph networks](https://arxiv.org/abs/1806.01261)
+   - [Graph Networks as a Universal Machine Learning Framework for Molecules and Crystals](https://arxiv.org/abs/1812.05055)
+   - [Graph Transformer Networks](https://arxiv.org/abs/1911.06455)
+   - [Neural Message Passing for Quantum Chemistry](https://arxiv.org/abs/1704.01212)
+      - A type of neural network model for chemical prediction problems.
 
 ## Molecule Generation
    - [Inverse molecular design using machine learning: Generative models for matter engineering](https://science.sciencemag.org/content/361/6400/360)
