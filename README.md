@@ -11,6 +11,7 @@ Everything about Deep Learning in relation to molecules.
    - [PyTorch Geometric](https://pytorch-geometric.readthedocs.io/en/latest/)
    - [DGL](https://www.dgl.ai/)
    #### Paper
+   - [Spherical Message Passing for 3D Graph Networks](https://arxiv.org/abs/2102.05013)
    - [GraphDF: A Discrete Flow Model for Molecular Graph Generation](https://arxiv.org/abs/2102.01189)
    - [Improving Molecular Graph Neural Network Explainability with Orthonormalization and Induced Sparsity](https://arxiv.org/abs/2105.04854)
    - [Strategies for Pre-training Graph Neural Networks](https://arxiv.org/abs/1905.12265)
